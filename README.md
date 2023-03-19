@@ -11,11 +11,11 @@ specified by `useFakeTimers`.
 ## Clone this repo
 ### With git
 ```bash
-    git clone https://github.com/BenIsenstein/jest_fix_intl_fake_timers.git
+git clone https://github.com/BenIsenstein/jest_fix_intl_fake_timers.git
 ```
 ### With gh cli
 ```bash
-    gh repo clone BenIsenstein/jest_fix_intl_fake_timers
+gh repo clone BenIsenstein/jest_fix_intl_fake_timers
 ```
 
 <br>
